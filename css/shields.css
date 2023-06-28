@@ -4,24 +4,26 @@
 	padding: 0.1rem 0.5rem 0.1rem 0.5rem;
 }
 
-.bannerShieldContainer.I .routeNumber {
-	color: var(--white);
+.bannerShieldContainer.FS .routeNumber {
+	color: var(--red);
 	top: 0.17em;
 }
-.bannerShieldContainer.I.one .routeNumber,
-.bannerShieldContainer.I.two .routeNumber {
+.bannerShieldContainer.FS.one .routeNumber,
+.bannerShieldContainer.FS.two .routeNumber {
 	font-family: "Series D";
 }
-.bannerShieldContainer.I.three .routeNumber {
+.bannerShieldContainer.FS.three .routeNumber {
 	font-family: "Series C";
 }
-.bannerShieldContainer.I.bus .banner {
+.bannerShieldContainer.FS.bus .banner {
 	display: none;
 }
 
 .bannerShieldContainer.US .routeNumber,
-.bannerShieldContainer.NS.two .routeNumber,
-.bannerShieldContainer.NS.one .routeNumber,
+.bannerShieldContainer.Tempache.two .routeNumber,
+.bannerShieldContainer.Tempache.one .routeNumber,
+.bannerShieldContainer.Mennowa.two .routeNumber,
+.bannerShieldContainer.Mennowa.one .routeNumber,
 .bannerShieldContainer.cir .routeNumber,
 .bannerShieldContainer.elp .routeNumber,
 .bannerShieldContainer.rec .routeNumber,
@@ -41,6 +43,20 @@
 	font-family: "Series D";
 }
 .bannerShieldContainer.C.three .routeNumber {
+	font-family: "Series C";
+}
+
+
+.bannerShieldContainer.Apawi .routeNumber {
+	color: var(--countyYellow);
+	font-size: 1.15em;
+	top: 0.5em;
+}
+.bannerShieldContainer.Apawi.one .routeNumber,
+.bannerShieldContainer.Apawi.two .routeNumber {
+	font-family: "Series D";
+}
+.bannerShieldContainer.Apawi.three .routeNumber {
 	font-family: "Series C";
 }
 

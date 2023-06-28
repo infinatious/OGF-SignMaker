@@ -7,11 +7,11 @@ class Shield {
 	 * @param {string} [bannerType] - Directional banner to display.
 	 * @param {string} [bannerPosition] - Where to place the directional banner relative to the shield.
 	 */
-	constructor({type = "I", routeNumber = "1", to = false, bannerType, bannerPosition} = {}) {
+	constructor({type = "FS", routeNumber = "99", to = false, bannerType, bannerPosition} = {}) {
 		if (Object.keys(this.types).includes(type)) {
 			this.type = type;
 		} else {
-			this.type = "I";
+			this.type = "FS";
 		}
 		this.type = type;
 		this.routeNumber = routeNumber;
