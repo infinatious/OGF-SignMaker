@@ -61,6 +61,48 @@
 	font-family: "Series C";
 }
 
+.bannerShieldContainer.Minnonigan .routeNumber {
+	font-family: "Series C";
+	text-align: right;
+	top: 0.3em;
+	color: var(--white);
+}
+.bannerShieldContainer.Minnonigan.one .routeNumber,
+.bannerShieldContainer.Minnonigan.two .routeNumber {
+	right: 0.3em;
+}
+.bannerShieldContainer.Minnonigan.three .routeNumber {
+	right: 0.1em;
+}
+
+
+.bannerShieldContainer.MinnoniganT .routeNumber,
+.bannerShieldContainer.MinnoniganX .routeNumber {
+	color: var(--black);
+	top: 0.28em;
+}
+.bannerShieldContainer.MinnoniganT.one .routeNumber,
+.bannerShieldContainer.MinnoniganT.two .routeNumber,
+.bannerShieldContainer.MinnoniganX.one .routeNumber,
+.bannerShieldContainer.MinnoniganX.two .routeNumber {
+	font-family: "Series C";
+}
+.bannerShieldContainer.MinnoniganT.three .routeNumber,
+.bannerShieldContainer.MinnoniganX.three .routeNumber {
+	font-family: "Series C";
+	top: 0.4em;
+	font-size: 1.25em;
+}
+
+
+
+
+
+
+
+
+
+
 .bannerShieldContainer.AL .routeNumber {
 	color: var(--black);
 	font-family: "Series D";
@@ -185,16 +227,7 @@
 	top: 0.6em;
 }
 
-.bannerShieldContainer.Minnonigan .routeNumber {
-	font-family: "Series C";
-	text-align: right;
-	top: 0.3em;
-	color: var(--white);
-}
-.bannerShieldContainer.Minnonigan.one .routeNumber,
-.bannerShieldContainer.Minnonigan.two .routeNumber {
-	right: 0.3em;
-}
+
 .bannerShieldContainer.ID.three .routeNumber {
 	font-size: 1.15em;
 	right: 0.4em;
@@ -529,30 +562,6 @@
 }
 
 
-.bannerShieldContainer.MinnoniganX .routeNumber {
-	color: var(--black);
-	top: 0.15em;
-}
-.bannerShieldContainer.MinnoniganX.one .routeNumber,
-.bannerShieldContainer.MinnoniganX.two .routeNumber {
-	font-family: "Series D";
-}
-.bannerShieldContainer.MinnoniganX.three .routeNumber {
-	font-family: "Series C";
-}
-
-
-.bannerShieldContainer.MinnoniganT .routeNumber {
-	color: var(--black);
-	top: 0.15em;
-}
-.bannerShieldContainer.MinnoniganT.one .routeNumber,
-.bannerShieldContainer.MinnoniganT.two .routeNumber {
-	font-family: "Series D";
-}
-.bannerShieldContainer.MinnoniganT.three .routeNumber {
-	font-family: "Series C";
-}
 
 .bannerShieldContainer.TX .routeNumber {
 	color: var(--black);
