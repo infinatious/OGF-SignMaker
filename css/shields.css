@@ -185,13 +185,14 @@
 	top: 0.6em;
 }
 
-.bannerShieldContainer.ID .routeNumber {
+.bannerShieldContainer.Minnonigan .routeNumber {
 	font-family: "Series C";
 	text-align: right;
 	top: -0.15em;
+	color: var(--white);
 }
-.bannerShieldContainer.ID.one .routeNumber,
-.bannerShieldContainer.ID.two .routeNumber {
+.bannerShieldContainer.Minnonigan.one .routeNumber,
+.bannerShieldContainer.Minnonigan.two .routeNumber {
 	right: 0.3em;
 }
 .bannerShieldContainer.ID.three .routeNumber {

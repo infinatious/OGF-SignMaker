@@ -8,9 +8,12 @@ Current OGF shields supported:
 - FSA Routes
 - Apawiland Routes
 - Tempache Routes
+- Minnonigan Standard
 
 OGF Shields in progress:
 - Mennowa
+- Alormen
+- Minnonigan Express and Turnpike Routes
 
 
 Generic shields:
