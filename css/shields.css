@@ -188,7 +188,7 @@
 .bannerShieldContainer.Minnonigan .routeNumber {
 	font-family: "Series C";
 	text-align: right;
-	top: -0.15em;
+	top: 0.3em;
 	color: var(--white);
 }
 .bannerShieldContainer.Minnonigan.one .routeNumber,
@@ -525,6 +525,32 @@
 	font-family: "Series D";
 }
 .bannerShieldContainer.TN2.three .routeNumber {
+	font-family: "Series C";
+}
+
+
+.bannerShieldContainer.MinnoniganX .routeNumber {
+	color: var(--black);
+	top: 0.15em;
+}
+.bannerShieldContainer.MinnoniganX.one .routeNumber,
+.bannerShieldContainer.MinnoniganX.two .routeNumber {
+	font-family: "Series D";
+}
+.bannerShieldContainer.MinnoniganX.three .routeNumber {
+	font-family: "Series C";
+}
+
+
+.bannerShieldContainer.MinnoniganT .routeNumber {
+	color: var(--black);
+	top: 0.15em;
+}
+.bannerShieldContainer.MinnoniganT.one .routeNumber,
+.bannerShieldContainer.MinnoniganT.two .routeNumber {
+	font-family: "Series D";
+}
+.bannerShieldContainer.MinnoniganT.three .routeNumber {
 	font-family: "Series C";
 }
 
