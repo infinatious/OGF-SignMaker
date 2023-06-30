@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Shield" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_1_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;}
 </style>
 <g id="Back">
 	<path class="st0" d="M42.6,507.8c-21.2,0-38.4-17.2-38.4-38.4V42.6c0-21.2,17.2-38.4,38.4-38.4h426.7c21.2,0,38.4,17.2,38.4,38.4
-		v426.7c0,21.2-17.2,38.4-38.4,38.4H42.6z"/>
+		v426.7c0,21.2-17.2,38.4-38.4,38.4L42.6,507.8L42.6,507.8z"/>
 	<path d="M469.4,8.5c18.9,0,34.1,15.3,34.1,34.1v426.7c0,18.9-15.3,34.1-34.1,34.1H42.6c-18.9,0-34.1-15.3-34.1-34.1V42.6
 		c0-18.9,15.3-34.1,34.1-34.1H469.4 M469.4,0H42.6C19.1,0,0,19.1,0,42.6v426.7C0,492.9,19.1,512,42.6,512h426.7
 		c23.5,0,42.7-19.1,42.7-42.7V42.6C512,19.1,492.9,0,469.4,0L469.4,0z"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="19.9" y="17.7" width="472.5" height="472.8"/>
+	</defs>
+	<clipPath id="SVGID_1_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="translate(-146 -288)" class="st1">
+		<path class="st2" d="M170.8,305.7h462.8c2.7,0,4.8,2.2,4.8,4.8v463.1c0,2.7-2.2,4.8-4.8,4.8H170.8c-2.7,0-4.8-2.2-4.8-4.8V310.5
+			C165.9,307.9,168.1,305.7,170.8,305.7z"/>
+		<path class="st3" d="M182.8,531.6h20.8l6.4-20.9l6.4,20.9h20.8l-16.8,12.9l6.4,20.9L210,552.6l-16.8,12.9l6.4-20.9L182.8,531.6z"
+			/>
+		<path class="st3" d="M372.7,723.1h20.9l6.5-20.9l6.5,20.9h20.9L410.6,736l6.5,20.9L400.1,744l-16.9,12.9l6.5-20.9L372.7,723.1z"/>
+		<path class="st3" d="M423.9,361.1h-20.8l-6.4,20.9l-6.4-20.9h-20.8l16.8-12.9l-6.4-20.9l16.8,12.9l16.8-12.9l-6.4,20.9
+			L423.9,361.1z"/>
+		<path class="st3" d="M330.4,385.8l-20.8,1.7l-4.7,21.3l-8.1-20.3l-20.8,1.7l15.8-14.2l-8.1-20.3l17.8,11.5l15.8-14.2l-4.7,21.3
+			L330.4,385.8z"/>
+		<path class="st3" d="M264,449.1l-20,5.9l-0.2,21.8l-12.1-18.1l-20,5.9l12.5-17.1l-12.1-18.1l19.8,7.5l12.5-17.1l-0.2,21.8
+			L264,449.1z"/>
+		<path class="st3" d="M279.9,691l20.5,3.8l10.2-19.3l2.5,21.7l20.5,3.8l-18.9,9.6l2.5,21.7l-14.2-15.8L284,726l10.2-19.3L279.9,691
+			z"/>
+		<path class="st3" d="M214.1,618l19.6,7.1l13.1-17.4l-1,21.8l19.6,7.1l-20.2,6.4l-1,21.8l-11.5-17.8l-20.2,6.4l13.1-17.4L214.1,618
+			z"/>
+	</g>
 </g>
 </svg>

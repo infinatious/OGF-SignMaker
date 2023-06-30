@@ -60,7 +60,6 @@ Shield.prototype.bannerPositions = ["Above", "Right", "Left"];
 Shield.prototype.types = {
 	"FS" : "FS",
 	"Alormen" : "Alormen",
-	"Alormen2" : "Alormen2",
 	"AlormenC" : "AlormenC",
 	"Apawiland" : "Apawi",
 	"Minnonigan" : "Minnonigan",
