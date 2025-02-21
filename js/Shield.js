@@ -59,13 +59,17 @@ Shield.prototype.bannerTypes = [
 Shield.prototype.bannerPositions = ["Above", "Right", "Left"];
 Shield.prototype.types = {
 	"FS" : "FS",
+	"Alcortez" : "Alcortez",
 	"Alormen" : "Alormen",
 	"AlormenC" : "AlormenC",
 	"Apawiland" : "Apawi",
+	"Clamash" : "Clamash",
+	"Mennowa" : "Mennowa",
+	"MennowaMT" : "MennowaMT",
+	"Michisaukee" : "Michisaukee",
 	"Minnonigan" : "Minnonigan",
 	"MinnoniganX" : "MinnoniganX",	
 	"MinnoniganT" : "MinnoniganT",
-	"Mennowa" : "Mennowa",	
 	"Tempache" : "Tempache",
 	"Rectangle" : "rec",
 	"Rectangle 2" : "rec2",
